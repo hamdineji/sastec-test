@@ -1,0 +1,21 @@
+
+.parent-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .flex-item {
+    flex: 1 0 40%; /* explanation below */
+    margin-right: 1%;
+ }
+ .img {
+     width: 70%;
+     margin-top: -40%;
+     margin-bottom: 10%;
+     z-index: 1;
+
+ }
+ .carroselB {
+    z-index: 5;
+    margin-top: -80%;
+ }

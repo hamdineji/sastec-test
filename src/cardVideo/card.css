@@ -1,0 +1,18 @@
+.title {
+    font-size: 14px;
+    text-align: start;
+}
+.paragraphe{
+    font-size: small;
+    text-align: start;
+}
+.button {
+    background-color: #D9010C;
+    margin-right: 100%;
+    font-size: medium;
+}
+.createdAt{
+    color: #D9010C;
+    font-size: 12px;
+    text-align: start;
+}
